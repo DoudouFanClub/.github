@@ -1,6 +1,6 @@
-# DoudouFanClub
+# Soba AI
 
-Welcome! Doudou provides you with three main projects that work together to provide a solution for interacting with open-source LLM (Large Language Model) servers.
+Welcome! Soba provides you with three main projects that work together to provide a solution for interacting with open-source LLM (Large Language Model) servers.
 
 1. [Soba-Frontend](#soba-frontend)
 2. [Soba-Server](#soba-server)
