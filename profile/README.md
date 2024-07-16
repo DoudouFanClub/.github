@@ -8,7 +8,7 @@ Welcome! Soba provides you with three main projects that work together to provid
 
 ## Quick Demo
 
-<video src="https://github.com/DoudouFanClub/.github/assets/57226077/32939b25-dc91-4e3c-ba95-b86c05128b9f" width="800" height="400" controls></video>
+<video src="https://github.com/DoudouFanClub/.github/raw/main/resources/videos/demo_v2.mp4" width="750" height="400" controls></video>
 
 ## Soba-Frontend
 
